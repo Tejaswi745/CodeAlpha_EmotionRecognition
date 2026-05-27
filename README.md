@@ -27,3 +27,9 @@ This project focuses on detecting human emotions from speech audio using Machine
 ---
 
 ## 📁 Project Structure
+CodeAlpha_EmotionRecognition/
+│
+├── train_model.py
+├── extract_features.py
+├── emotion_model.h5
+└── README.md
